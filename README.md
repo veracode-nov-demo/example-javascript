@@ -1,4 +1,4 @@
-# [:] Example Node.js Project - Build now retry 15 run job
+# [:] Example Node.js Project - Build now retry 15 finally
 
 An example node project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
